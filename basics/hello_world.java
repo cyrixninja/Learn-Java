@@ -1,4 +1,4 @@
-package basic;
+package basics;
 /**
  Hello World Program in Java
  */

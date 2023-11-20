@@ -1,4 +1,4 @@
-package basic;
+package basics;
 /*
  * Sum of Two Numbers in Java
  */
