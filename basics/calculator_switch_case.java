@@ -1,3 +1,4 @@
+package basics;
 /*
  * Calculator in Java using Switch Case
  */
