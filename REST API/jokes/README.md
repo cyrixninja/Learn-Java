@@ -1,4 +1,5 @@
-# SpringBoot REST API Example 1 (Random Quotes)
+
+# SpringBoot REST API Example 2 (Random Jokes)
 
 # How to Run
 
@@ -9,5 +10,5 @@
 
 ## Run the Build
 ```
-java -jar target/quotes-0.0.1-SNAPSHOT.jar
+ java -jar target/jokes-0.0.1-SNAPSHOT.jar
 ```
