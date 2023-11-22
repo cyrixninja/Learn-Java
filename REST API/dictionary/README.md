@@ -11,3 +11,9 @@
 ```
   java -jar target/dictionary-0.0.1-SNAPSHOT.jar
 ```
+
+## Make Requests
+
+```
+http://localhost:8080/api/dictionary/{word}
+```

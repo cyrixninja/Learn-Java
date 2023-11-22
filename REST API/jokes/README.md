@@ -12,3 +12,9 @@
 ```
  java -jar target/jokes-0.0.1-SNAPSHOT.jar
 ```
+
+## Make Requests
+
+```
+http://localhost:8080/api/jokes
+```
