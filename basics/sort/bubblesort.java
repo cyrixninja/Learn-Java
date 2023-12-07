@@ -1,3 +1,5 @@
+package basics.sort;
+
 public class bubblesort {
     // Function to perform Bubble Sort
     static void bubbleSort(int arr[]) {
