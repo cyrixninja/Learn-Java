@@ -1,5 +1,6 @@
 /*
-  Binary Search in Java
+  Binary Search is a searching algorithm for finding an element's position in a sorted array.
+  Here's example of binary search in Java.
  */
 package basics.search;
 

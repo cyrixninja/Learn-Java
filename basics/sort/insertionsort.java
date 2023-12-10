@@ -1,6 +1,8 @@
+/*
+ * Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
+ * Here's example of insertion sort in Java.
+ */
 package basics.sort;
-
-
 public class insertionsort {
     public static void insertionSort(int[] arr) {
         int n = arr.length;

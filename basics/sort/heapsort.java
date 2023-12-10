@@ -1,3 +1,7 @@
+/*
+ * Heap Sort is a comparison-based sorting technique based on Binary Heap data structure.
+ * Here's example of heap sort in Java.
+ */
 package basics.sort;
 
 public class heapsort {

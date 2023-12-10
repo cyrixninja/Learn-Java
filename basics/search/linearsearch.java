@@ -1,3 +1,6 @@
+/*
+ * Linear Search in Java
+ */
 package basics.search;
 
 public class linearsearch {

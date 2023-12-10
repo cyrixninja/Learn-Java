@@ -1,4 +1,8 @@
-package basics.sort;
+/*
+ * QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot.
+ * Here's example of quick sort in Java.
+ */
+
 
 public class quicksort {
     // Function to partition the array and return the index of the pivot element
