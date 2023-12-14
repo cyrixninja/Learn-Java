@@ -16,7 +16,7 @@ The `basics` directory contains fundamental Java programs, including:
 
 ### Search and Sort
 
-The `search` and `sort` directories contain programs implementing various search and sort algorithms, including binary search, linear search, bubble sort, heap sort, insertion sort, gnome sort, radix sort, and quick sort.
+The `search` and `sort` directories contain programs implementing various search and sort algorithms, including binary search, linear search, bubble sort, heap sort, insertion sort, gnome sort, radix sort, bogo sort, and quick sort.
 
 ## Classes
 
