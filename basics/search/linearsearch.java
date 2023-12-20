@@ -1,5 +1,6 @@
 /*
  * Linear Search in Java
+ * Here's Implementation of Linear Search in Java
  */
 package basics.search;
 
