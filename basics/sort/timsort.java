@@ -1,7 +1,7 @@
 /*
  * TimSort is a sorting algorithm based on Insertion Sort and Merge Sort.
  * Here is the link for more information: https://en.wikipedia.org/wiki/Timsort
- * Here's the Implementation of TimSort in Java:
+ * Here's an Example of TimSort in Java:
  */
 
 import java.util.Arrays;
